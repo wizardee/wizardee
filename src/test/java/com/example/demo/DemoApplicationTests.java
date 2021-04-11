@@ -13,6 +13,7 @@ class DemoApplicationTests {
     @Test
     void testest() {
         System.out.printf("adb");
+        System.out.printf("cde");
     }
 
 }
